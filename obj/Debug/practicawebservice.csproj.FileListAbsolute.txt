@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\webservice practicas\practicawebservice\bin\practicawebservice.dll.config
+C:\Users\LENOVO\Desktop\webservice practicas\practicawebservice\bin\practicawebservice.dll
+C:\Users\LENOVO\Desktop\webservice practicas\practicawebservice\bin\practicawebservice.pdb
+C:\Users\LENOVO\Desktop\webservice practicas\practicawebservice\obj\Debug\practicawebservice.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\webservice practicas\practicawebservice\obj\Debug\practicawebservice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\webservice practicas\practicawebservice\obj\Debug\practicawebservice.dll
+C:\Users\LENOVO\Desktop\webservice practicas\practicawebservice\obj\Debug\practicawebservice.pdb

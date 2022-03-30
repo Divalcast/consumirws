@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0+bVqnooHkyRZwE26TxzwwAAAAACAAAAAAAQZgAAAAEAACAAAAAQssoGuBbzImkj+KmCGyA4Cm0m7w8B1ZsyTU01EVW4SAAAAAAOgAAAAAIAACAAAAALEFEltX0bpb+Gd8mGt9PqduwTphdu4+duu2YMsLE9bSAAAAAAU8QqrHFBrI7SXNApf/RKBm9HcmIfenvznwNg/87izkAAAAC541YbamOQsKwMTSuqfYfmhlQnC18S9UXAZshe/Dw1Y4TQbrhS5qBdiOn6E8D/slhHPDGXBcDnTORN6Qp8BUJp</EncryptedPassword>
+    <_PublishTargetUrl>ftp://practicaws.somee.com/www.practicaws.somee.com</_PublishTargetUrl>
+    <History>True|2022-03-25T00:27:19.4218011Z;True|2022-03-24T18:24:47.9158750-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/practicawebservice.dll">
+      <publishTime>03/24/2022 18:24:38</publishTime>
+    </File>
+    <File Include="bin/practicawebservice.pdb">
+      <publishTime>03/24/2022 18:24:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/24/2022 18:24:42</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>03/24/2022 15:10:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
